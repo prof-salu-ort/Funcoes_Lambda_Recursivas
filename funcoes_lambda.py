@@ -27,3 +27,5 @@ print(list(map(lambda nome : nome.upper(), lista)))
 numeros = [1,2,3,4,5,6,7,8,10]
 
 print(list(filter(lambda x : x % 2 == 0, numeros)))
+
+'''EXERCIOS 1, 2 e 3 PARA CASA'''
